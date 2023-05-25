@@ -235,6 +235,7 @@ input:checked + .slider:before {
 .bookmark-tag {
   background-image: url("bookmark.png");
   background-size: contain;
+  background-color: transparent;
   width: 40px;
   height: 40px;
   margin-top: -38px;
