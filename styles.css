@@ -70,7 +70,7 @@ footer {
   padding-top: 5px;
 }
 .bookmark-icon {
-  background-image: url("bookmark.png");
+  background-image: url("/icons/bookmark.png");
   background-repeat: no-repeat;
   background-size: contain;
   width: 50px;
@@ -78,7 +78,7 @@ footer {
   margin-bottom: 10px;
 }
 .home-icon {
-  background-image: url("home.png");
+  background-image: url("/icons/home.png");
   background-repeat: no-repeat;
   background-size: contain;
   width: 50px;
@@ -86,7 +86,7 @@ footer {
   margin-bottom: 10px;
 }
 .profile-icon {
-  background-image: url("profile.png");
+  background-image: url("/icons/profile.png");
   background-repeat: no-repeat;
   background-size: contain;
   width: 50px;
@@ -143,7 +143,7 @@ ul {
   flex-direction: column;
 }
 .bookmark2 {
-  background-image: url("bookmark.png");
+  background-image: url("/icons/bookmark.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center center;
@@ -152,7 +152,7 @@ ul {
   border-radius: 15px;
 }
 .number {
-  background-image: url("questionmark.png");
+  background-image: url("/icons/questionmark.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left;
@@ -233,7 +233,7 @@ input:checked + .slider:before {
   border-radius: 50%;
 }
 .bookmark-tag {
-  background-image: url("bookmark.png");
+  background-image: url("/icons/bookmark.png");
   background-size: contain;
   background-color: transparent;
   width: 40px;
